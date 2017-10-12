@@ -1,0 +1,1 @@
+read line; sort -n
